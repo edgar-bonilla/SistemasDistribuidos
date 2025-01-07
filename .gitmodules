@@ -13,3 +13,6 @@
 [submodule "TAREA1_EDGAR"]
 	path = TAREA1_EDGAR
 	url = https://github.com/edgar-bonilla/TAREA1_EDGAR.git
+[submodule "TAREA4_EDGAR"]
+	path = TAREA4_EDGAR
+	url = https://github.com/edgar-bonilla/TAREA4_EDGAR.git
