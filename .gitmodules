@@ -16,3 +16,6 @@
 [submodule "TAREA4_EDGAR"]
 	path = TAREA4_EDGAR
 	url = https://github.com/edgar-bonilla/TAREA4_EDGAR.git
+[submodule "TAREA5_EDGAR"]
+	path = TAREA5_EDGAR
+	url = https://github.com/edgar-bonilla/TAREA5_EDGAR.git
